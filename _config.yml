@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "ღ민주ღ"
-  avatar           : # path of avatar image, e.g. "/assets/image/logoimg.png"
+  avatar           : "/assets/image/logoimg.png"
   bio              : "✿잠자는 숲속에서 살고싶어요✿"
   location         : "대한민국, 서울"
   email            : "21-20610@hafs.hs.kr"
